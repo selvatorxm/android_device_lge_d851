@@ -2,3 +2,6 @@
 rild.libpath=/vendor/lib/libril-qc-qmi-1.so
 telephony.lteOnGsmDevice=1
 ro.telephony.default_network=9
+
+#AOKP Device Maintainers
+ro.aokp.maintainer="Mehmet KÖKLÜ (croatan)"
